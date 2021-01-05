@@ -2,7 +2,7 @@
 layout: page
 title: Researcher
 subtitle: Industrial Management Engineering, Korea University
-cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/img/face.png
 ---
 
 <br/>
