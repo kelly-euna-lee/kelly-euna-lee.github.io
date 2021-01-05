@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Researcher
-subtitle: Industrial Management Engineering, Korea University
+title: Research Engineer
+subtitle: Logistics & Facilities Management Division, KIDA
 cover-img: /assets/img/math background.jpg
 ---
 
@@ -9,7 +9,7 @@ cover-img: /assets/img/math background.jpg
 
 ## About me
 
-**Kelly Lee** is a **_senior researcher_** and **_open source special fellow_** of [ETRI](https://www.etri.re.kr/kor/main/main.etri) (Korean government-funded national research institute). He designs system architectures and devises sophisticated algorithms to accomplish national R&D projects in cloud computing domain.
+**Kelly Lee** is a **_Associate research engineer_** of [KIDA](https://www.kida.re.kr) (Korean government-funded national research institute) and **_PhD student_** in Korea University . He designs system architectures and devises sophisticated algorithms to accomplish national R&D projects in cloud computing domain.
 
 He has a broad technical background in cloud computing, multi-agent systems, resource management, and decision-making algorithms. He has published more than 20 international [research papers](https://scholar.google.com/citations?user=seokhoson) including highly cited top journals. His research has been presented in several conferences and organizations.
 
