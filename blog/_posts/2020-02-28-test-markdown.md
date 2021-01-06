@@ -15,6 +15,7 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 ## Here is a secondary heading
 
 Here's a useless table:
+$${ W }{ ij }=exp\left( -\frac { d{ ({ x }{ i },{ x }_{ j }) }^{ 2 } }{ 2\sigma^{2} } \right) $$
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
