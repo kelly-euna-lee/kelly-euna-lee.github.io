@@ -5,6 +5,7 @@ subtitle: Each post also has a subtitle
 gh-repo: seokho-son/seokho-son.github.io
 gh-badge: [star, fork, follow]
 tags: [test, markdown]
+use_math: true
 comments: true
 ---
 
