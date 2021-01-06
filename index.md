@@ -23,7 +23,7 @@ He loves to bring new ideas and share it with collaborators. Hello world! &#1285
 ## Contact
 
 ```
-Affiliation: Cloud Computing SW Research Section, Future Computing Research Division, Artificial Intelligence Research Laboratory, Electronics and Telecommunications Research Institute (ETRI)
-Office: ETRI 7-563, 218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea
-Email: shsonkorea[at]etri.re.kr or shsongist[at]gmail.com
+Affiliation: Logistics & Facilities Management Division, Center for Defense Resource Management, Korea Institute for Defense Analyses (KIDA)
+Office: 37 Hoegi-ro, Dongdaemun-gu, Seoul, Republic of Korea
+Email: ealee[at]kida.re.kr or ealee[at]korea.ac.kr
 ```
