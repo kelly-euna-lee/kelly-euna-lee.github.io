@@ -5,4 +5,5 @@
 * Neural Network을 구현할 때는 매우 중요한 몇 가지 기술  
   * for문을 돌리지 않고 m개의 training dataset을 처리하는 방법  
     * 로지스틱 회귀: 이진 분류를 위한 알고리즘
+      > 예) 고양이 일 때는 1로, 고양이가 아닐 때는 0으로 레이블을 출력
   * 신경망 학습시 forward/backward propagation 사용 이유 
