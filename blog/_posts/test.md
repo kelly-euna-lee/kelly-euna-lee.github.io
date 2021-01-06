@@ -12,3 +12,4 @@
     > 예) 고양이 일 때는 1로, 고양이가 아닐 때는 0으로 레이블을 출력
 <a href="http://img.etoday.co.kr/pto_db/2018/02/20180212094232_1185877_710_340.jpg"><img src="http://img.etoday.co.kr/pto_db/2018/02/20180212094232_1185877_710_340.jpg" width="500px" title="source: imgur.com" /></a>
 
+$$ 1^2 $$
