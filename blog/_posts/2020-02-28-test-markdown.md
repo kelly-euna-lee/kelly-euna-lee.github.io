@@ -19,9 +19,11 @@ Here's a useless table:
 
 This formula $f(x) = x^2$ is an example.
 
-| Number | Next number | Previous number |
+## Neural Networks and Deep Learning(Andrew Ng) 강의 리뷰
+
+| 주차 | 강의 | 강의영상 |
 | :------ |:--- | :--- |
-| Five | Six | Four |
+| 1주차 | Welcome to the Deep Learning Specialization | [Welcome](https://www.notion.so/1-Welcome-to-the-Deep-Learning-Specialization-c69ed6e93a79411e8c562f882b617359) |
 | Ten | Eleven | Nine |
 | Seven | Eight | Six |
 | Two | Three | One |
