@@ -1,5 +1,4 @@
 ---
-markdown: kramdown
 layout: post
 title: Markdown Sample
 subtitle: Each post also has a subtitle
