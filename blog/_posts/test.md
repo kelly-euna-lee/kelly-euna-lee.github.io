@@ -4,4 +4,5 @@
 1. Binary Classification
 * Neural Network을 구현할 때는 매우 중요한 몇 가지 기술  
   * for문을 돌리지 않고 m개의 training dataset을 처리하는 방법  
+    * 로지스틱 회귀: 이진 분류를 위한 알고리즘
   * 신경망 학습시 forward/backward propagation 사용 이유 
