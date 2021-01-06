@@ -15,7 +15,12 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 ## Here is a secondary heading
 
 Here's a useless table:  
-$${ W }{ ij }=exp\left( -\frac { d{ ({ x }{ i },{ x }_{ j }) }^{ 2 } }{ 2\sigma^{2} } \right) $$
+
+$$
+\begin{align*}
+{ f }_{ t }&=\sigma ({ W }_{ xh\_ f }{ x }_{ t }+{ W }_{ hh\_ f }{ h }_{ t-1 }+{ b }_{ h\_ f })\\ { i }_{ t }&=\sigma ({ W }_{ xh\_ i }{ x }_{ t }+{ W }_{ hh\_ i }{ h }_{ t-1 }+{ b }_{ h\_ i })\\ { o }_{ t }&=\sigma ({ W }_{ xh\_ o }{ x }_{ t }+{ W }_{ hh\_ o }{ h }_{ t-1 }+{ b }_{ h\_ o })\\ { g }_{ t }&=\tanh { ({ W }_{ xh\_ g }{ x }_{ t }+{ W }_{ hh\_ g }{ h }_{ t-1 }+{ b }_{ h\_ g }) } \\ { c }_{ t }&={ f }_{ t }\odot { c }_{ t-1 }+{ i }_{ t }\odot { g }_{ t }\\ { h }_{ t }&={ o }_{ t }\odot \tanh { ({ c }_{ t }) } 
+\end{align*}
+$$
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
