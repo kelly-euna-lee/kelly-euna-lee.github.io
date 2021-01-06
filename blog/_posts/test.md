@@ -12,4 +12,4 @@
     > 예) 고양이 일 때는 1로, 고양이가 아닐 때는 0으로 레이블을 출력
 <a href="http://img.etoday.co.kr/pto_db/2018/02/20180212094232_1185877_710_340.jpg"><img src="http://img.etoday.co.kr/pto_db/2018/02/20180212094232_1185877_710_340.jpg" width="500px" title="source: imgur.com" /></a>
 
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
+$${ W }_{ ij }=exp\left( -\frac { d{ ({ x }_{ i },{ x }_{ j }) }^{ 2 } }{ 2\sigma^{2}  }  \right) $$
