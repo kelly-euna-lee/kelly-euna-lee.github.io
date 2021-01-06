@@ -9,16 +9,23 @@ cover-img: /assets/img/math background.jpg
 
 ## About me
 
-**Kelly Lee** is a **_Associate research engineer_** of [KIDA](https://www.kida.re.kr) (Korean government-funded national research institute) and **_PhD student_** in Korea University . He designs system architectures and devises sophisticated algorithms to accomplish national R&D projects in cloud computing domain.
+**Kelly Lee** is a **_Associate research engineer_** of [KIDA](https://www.kida.re.kr) (Korean government-funded national research institute) and **_PhD student_** in Korea University . She serves as a Research Engineer in the Spare Parts Requirements Analysis Team within the Defense Resource Management Centre, Korea Institute for Defense Analyses(KIDA) at Seoul, Korea since 2012. 
 
-He has a broad technical background in cloud computing, multi-agent systems, resource management, and decision-making algorithms. He has published more than 20 international [research papers](https://scholar.google.com/citations?user=seokhoson) including highly cited top journals. His research has been presented in several conferences and organizations.
+Here are some notable projects she has worked on: She is involved in developing demand forecasting model and inventory optimization model of spare parts.
 
-He is carrying out various activities including international standardizations ([ITU-T](https://www.itu.int/en/ITU-T/about/Pages/default.aspx) standards), paper reviews for research journals, and contributions to open source projects.
+> Take part in reviewing the spare parts budget requirements of ROK Army, Navy, Air force military equipment using developed models every year and generate summary reports for the Defense Ministry of Korea.
 
-He is a founding member of the open souce project [Cloud-Barista](https://github.com/cloud-barista) and the leader and maintainer of [CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project.
-Also, he is a member of [Kubernetes](https://kubernetes.io/) and approver/reviewer of localization contents in Kubernetes [Dashboard](https://github.com/kubernetes/dashboard) and [Website](https://github.com/kubernetes/website).
+> Analyze the logistics operation DB of each military equipment maintenance information system(DELIIS) such as supply transaction history, maintenance performance history, equipment operation data. In addition, she designed a simulation tool to support the inventory optimization model. 
 
-He loves to bring new ideas and share it with collaborators. Hello world! &#128525;
+> Design a test to validate a new model with improved logic, experiment with using various input data and analyze the output data.
+
+> She also plays a role of POC in civil / overseas case investigation and exchange cooperation with other research institutes, and also conducts comparative analysis studies with models operated by other agencies.
+
+Ms. Lee holds Masters degree in Industrial Engineering from Korea University, and Bachelor of Mathematics degree. Begin Ph.D in Industrial Management Engineering from 2019.
+
+
+Specialties: Mathematical Modeling, Demand Forecasting, Inventory Optimization, Analyzing the Military Logistics Operation DB, Spare Parts Requirements Analysis 
+
 
 ## Contact
 
