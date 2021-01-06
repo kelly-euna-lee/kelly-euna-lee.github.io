@@ -17,11 +17,7 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 Here's a useless table:  
 
-$$
-\lim_{x\to 0}{\frac{e^x-1}{2x}}
-\overset{\left[\frac{0}{0}\right]}{\underset{\mathrm{H}}{=}}
-\lim_{x\to 0}{\frac{e^x}{2}}={\frac{1}{2}}
-$$
+This formula $f(x) = x^2$ is an example.
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
