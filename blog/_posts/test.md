@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Cloud-Barista 2nd Open Conference Speaker
