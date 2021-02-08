@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to 딥린이 blog!"
 date:   2021-01-29 20:32:24 +0900
 categories: jekyll update
 ---
